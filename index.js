@@ -76,8 +76,7 @@ let up = `
 
   ☆ PREFIX:** ${prefix}
   ☆ OWNER:** ${ownerNumber}
-  ☆ UPTIME:** ${uptime}
-
+  
   > ♤ DEVELOPER BY DILISHA GIMSHAN ♤
 
 
