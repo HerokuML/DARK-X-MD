@@ -84,7 +84,7 @@ let up = `
 ☆  ENJOY THIS BOT LIKED 👍 ☆
  
  `;
-conn.sendMessage(config.BOT_NUMBER + "@s.whatsapp.net", { image: { url: `https://iili.io/2c1i67f.jpg` }, caption: up })
+conn.sendMessage(config.BOT_NUMBER + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/LxZ5kRs/0fcb0d4b87640b1f.jpg` }, caption: up })
 
 }
 })
